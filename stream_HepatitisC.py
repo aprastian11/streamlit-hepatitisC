@@ -1,5 +1,4 @@
 import pickle
-from turtle import color
 import streamlit as st
 
 # Membaca Model
